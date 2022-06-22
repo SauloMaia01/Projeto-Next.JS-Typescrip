@@ -2,7 +2,7 @@
 
 Aplicação web de um jogo de porta premiada
 
-### 📋 Pré-requisitos
+Pré-requisitos
 
 ```
 git
