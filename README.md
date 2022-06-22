@@ -15,12 +15,6 @@ npm ou yarn
 No seu terminal dê o comando:
 
 ```
-git clone https://github.com/leonardoxavier01/discover-door.git
-```
-
-E depois:
-
-```
 npm install ou yarn install
 ```
 
@@ -43,16 +37,3 @@ Todas a portas podem ser abertas e selecionadas, porém somente uma contém o pr
 
 Caso o jogador vença, o jogo deverá ser reniciado.
 
-## 🛠️ Construído com
-
-- [React.js](https://reactjs.org/) - Biblioteca javascript
-- [Next.js](https://nextjs.org/) - Framework react
-
-## 🎁 Expressões de gratidão
-
-- Faça brincadeiras com o projeto.
-- Obrigado por ler até aqui 🤓.
-
----
-
-⌨️ com ❤️ por Programação 😊
